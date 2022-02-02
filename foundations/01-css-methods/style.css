@@ -1,0 +1,7 @@
+.external {
+    font-weight: 700;
+    font-size: 60px;
+    background-color: red;
+    color: white;
+    width: max-content;
+}

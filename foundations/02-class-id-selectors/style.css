@@ -1,0 +1,20 @@
+.pink {
+    background-color: rgb(253, 160, 176);
+    color: black;
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+
+.pink.cooler {
+    font-size: 24px;
+}
+
+#two {
+    color: rgb(22, 22, 192);
+    font-size: 36px;
+}
+
+#four {
+    background-color: rgb(93, 248, 93);
+    font-size: 24px;
+    font-weight: bold;
+}
